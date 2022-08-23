@@ -6,6 +6,8 @@ d. N moedas de 10 centavos;
 e. N moedas de 5 centavos;
 f. N moedas de 1 centavos.
 
+Lembrando que N é o número determinado por vocês.
+
 O programa deverá verificar se o total de reais que contém no cofrinho é o bastante para comprar o produto X e imprimir se possui ou não valor suficiente.
 _________________________________________________________________________________________________________________________________________________________________
 
